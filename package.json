@@ -1,0 +1,11 @@
+{
+  "name": "intermix-e2e",
+  "version": "1.0.0",
+  "description": "Intermix e2e tests",
+  "main": "index.js",
+  "author": "Tarun Kumar Sukhu",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.7.0"
+  }
+}
